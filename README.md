@@ -99,3 +99,15 @@ The trained model files are excluded from Git. Run the notebook's training and s
 ## Disclaimer
 
 This is an educational machine learning prototype, not a production-ready payment fraud prevention system.
+
+
+## Screenshots
+
+### Model Comparison
+![Model Comparison](screenshots/model-comparison.png)
+
+### Fraud Detection Confusion Matrix
+![Confusion Matrix](screenshots/confusion-matrix.png)
+
+### Feature Importance
+![Feature Importance](screenshots/feature-importance.png)

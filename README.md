@@ -110,4 +110,4 @@ This is an educational machine learning prototype, not a production-ready paymen
 ![Confusion Matrix](confusionmatrix.png)
 
 ### Feature Importance
-![Feature Importance](Feature Importance.png)
+![Feature Importance](FeatureImportance.png)

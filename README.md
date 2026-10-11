@@ -107,7 +107,7 @@ This is an educational machine learning prototype, not a production-ready paymen
 ![Model Comparison](comparision.png)
 
 ### Fraud Detection Confusion Matrix
-![Confusion Matrix](screenshots/confusionmatrix.png)
+![Confusion Matrix](confusionmatrix.png)
 
 ### Feature Importance
-![Feature Importance](screenshots/Feature Importance.png)
+![Feature Importance](Feature Importance.png)
